@@ -1,0 +1,2 @@
+D:\Esc Quake 2.1 beta\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Esc Quake 2.1 beta\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
